@@ -17,7 +17,7 @@
 
     var link = document.createElement("link");
     link.rel = "stylesheet";
-    link.href = "https://raw.githubusercontent.com/MyMidnightOFC/MidnigthTeam/refs/heads/main/Kultivi.css";
+    link.href = "https://rawcdn.githack.com/MyMidnightOFC/MidnigthTeam/refs/heads/main/Kultivi.css";
     document.head.appendChild(link);
 
     var style = document.createElement("style");
